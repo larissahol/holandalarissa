@@ -5,9 +5,11 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holandalarissa&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
-### Linguagens que estou aprendendo:
+### Eu estou aprendendo: 📓
+ <img align="left" alt="octocat" height="150" width="150" src="https://github.com/larissie/larissie/blob/3def620b4db7351956d8f747b7ea1dbf834aab43/octocat-1664052916701.png">
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Java" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   
 
 ![Snake animation](https://github.com/holandalarissa/holandalarissa/blob/output/github-contribution-grid-snake.svg)
