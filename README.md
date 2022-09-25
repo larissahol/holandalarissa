@@ -5,7 +5,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holandalarissa&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
-### Eu estou aprendendo: 📓
+### Estou aprendendo: 
  <img align="left" alt="octocat" height="150" width="150" src="https://github.com/larissie/larissie/blob/3def620b4db7351956d8f747b7ea1dbf834aab43/octocat-1664052916701.png">
 
 <div style="display: inline_block"><br>
