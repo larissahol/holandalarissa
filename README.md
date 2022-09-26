@@ -1,4 +1,4 @@
-### Olá, seja bem vindo(a)! Meu nome é Larissa 👋
+### Olá, seja bem vindo(a)!👋
 <div align="center">
   <a href="https://github.com/holandalarissa">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=holandalarissa&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_public=true"/>
