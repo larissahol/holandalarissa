@@ -6,7 +6,6 @@
 </div>
 
 ### Estou aprendendo: 
- <img align="left" alt="octocat" height="150" width="150" src="https://github.com/holandalarissa/holandalarissa/blob/033b85844a974ef93202678f3a8e3b360b0a9f31/octocat-1664052916701.png">
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   
