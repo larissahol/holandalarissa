@@ -1,3 +1,3 @@
-<br><p align="center">🍧
+<br><p align="center">...
 </p></br>
  
