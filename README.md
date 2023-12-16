@@ -1,4 +1,4 @@
-## GitHub Statistics
+## Larissa
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=larissahol&show_icons=true&count_private=true&theme=one_dark_pro" alt="GitHub Stats" width="49%" />
