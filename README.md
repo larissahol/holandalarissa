@@ -1,6 +1,6 @@
 <section>
         <h1 class="field">
-        <img class="avatar" src="https://github.com/larissahol/larissahol/blob/main/images/github.png" width="30" height="25" />
+        <!--<img class="avatar" src="https://github.com/larissahol/larissahol/blob/main/images/github.png" width="30" height="25" />-->
         <span>Larissa</span>
         </h1>
  </section>
