@@ -2,10 +2,6 @@
 
  ## 
 
- <div align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=laris-sa&theme=neon&hide_border=false&border_radius=5&locale=pt_BR" alt="GitHub Streak" />
-    </div>
-
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="html"  src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="htm5"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
